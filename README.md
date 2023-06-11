@@ -1,4 +1,5 @@
 ### 
+__(￣▽￣)ノ__
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=not-fate&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
